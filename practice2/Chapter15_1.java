@@ -17,6 +17,4 @@ public class Chapter15_1 {
         }
         return a % b;
     }
-
-
 }
